@@ -1,4 +1,8 @@
-# Novel Universe
+<img style="width:100%; max-width:400px; object-fit: contain; display:block; margin: 0 auto;" src="https://i.imgur.com/UaSyFa0.png" alt="Novel Universe" />
+
+<br>
+<br>
+<br>
 
 ## Project Overview
 Embark on a literary journey with **Novel Universe**, an ingenious online platform designed to nurture aspiring authors and foster a vibrant community of writers and readers. With a forward-looking approach, our project offers a fresh perspective on sharing and consuming original novels in an interactive and engaging manner.
@@ -21,8 +25,6 @@ One of Novel Universe's standout features is its interactive reader-author inter
   - Prisma
   - Tailwind CSS
 
-- **Project Image:**
-  ![Novel Universe](https://i.imgur.com/UaSyFa0.png)
 
 - **Status:**
   Started
