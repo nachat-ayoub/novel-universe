@@ -4,7 +4,6 @@
   <img width="450" src="https://i.imgur.com/UaSyFa0l.png" alt="Novel Universe" />
 </p>
 
-
 ## Project Overview
 Embark on a literary journey with **Novel Universe**, an ingenious online platform designed to nurture aspiring authors and foster a vibrant community of writers and readers. With a forward-looking approach, our project offers a fresh perspective on sharing and consuming original novels in an interactive and engaging manner.
 
@@ -22,6 +21,7 @@ One of Novel Universe's standout features is its interactive reader-author inter
   - Next.js
   - React.js
   - NextAuth.js
+  - TypeScript
   - PostgreSQL
   - Prisma
   - Tailwind CSS
