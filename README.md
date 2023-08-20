@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Novel Universe
 
-## Getting Started
+## Project Overview
+Embark on a literary journey with **Novel Universe**, an ingenious online platform designed to nurture aspiring authors and foster a vibrant community of writers and readers. With a forward-looking approach, our project offers a fresh perspective on sharing and consuming original novels in an interactive and engaging manner.
 
-First, run the development server:
+## Project Description
+At the heart of Novel Universe lies a vision to empower budding writers and provide them with a platform to showcase their literary creations. The platform's architecture is built upon a foundation of cutting-edge technologies, including Next.js, React.js, NextAuth.js, PostgreSQL, Prisma, and Tailwind CSS. This amalgamation of tools creates a seamless and enriching experience for both authors and readers.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+The platform boasts an innovative submission process that simplifies the journey from the author's mind to the reader's screen. Authors can effortlessly publish their original novels, complete with immersive cover art, enticing summaries, and engaging chapter divisions. Readers, on the other hand, are treated to a user-friendly interface that enhances their reading escapades.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+One of Novel Universe's standout features is its interactive reader-author interactions. Authors can engage with their readers through comments, Q&A sessions, and even polls, transforming the reading experience into a dynamic and collaborative adventure.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Details
+- **Technologies/Skills used:**
+  - Web Development
+  - Full Stack
+  - Next.js
+  - React.js
+  - NextAuth.js
+  - PostgreSQL
+  - Prisma
+  - Tailwind CSS
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Project Image:**
+  ![Novel Universe](https://i.imgur.com/UaSyFa0.png)
 
-## Learn More
+- **Status:**
+  Started
 
-To learn more about Next.js, take a look at the following resources:
+- **Start Date:**
+  August 19, 2023
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **End Date:**
+  Ongoing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!-- Live demo link is currently unavailable. -->
