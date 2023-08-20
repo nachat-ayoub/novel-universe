@@ -1,8 +1,9 @@
-<img style="width:100%; max-width:400px; object-fit: contain; display:block; margin: 0 auto;" src="https://i.imgur.com/UaSyFa0.png" alt="Novel Universe" />
+<p align="center">
+  <img width="450" src="https://i.imgur.com/UaSyFa0l.png" alt="Novel Universe" />
+</p>
 
 <br>
-<br>
-<br>
+<br> 
 
 ## Project Overview
 Embark on a literary journey with **Novel Universe**, an ingenious online platform designed to nurture aspiring authors and foster a vibrant community of writers and readers. With a forward-looking approach, our project offers a fresh perspective on sharing and consuming original novels in an interactive and engaging manner.
